@@ -1,0 +1,11 @@
+﻿{
+  "Group": "My Plugins",
+  "FriendlyName": "Plugin for education",
+  "SystemName": "MyPlugins.PluginEdu",
+  "Version": "1.0",
+  "SupportedVersions": [ "4.70" ],
+  "Author": "umut ulupinar",
+  "DisplayOrder": 1,
+  "FileName": "plugin.edu.dll",
+  "Description": "This plugin is for my education to learn nopCommerce"
+}
